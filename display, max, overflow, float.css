@@ -1,0 +1,26 @@
+/*font-family: 'Balsamiq Sans', cursive;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Special Elite', cursive;*/
+body {
+    background-color: #6594C0;
+    width:70%;
+    font-size: 35px;
+}
+.h1 {
+    background-color: #3562A6;
+    font-size: 140%;
+    width: auto;
+    color: linen;
+    font-family: "Bebas Neue";
+    margin: auto;
+    max-width: 60%;
+    text-align: center;
+}
+.para {
+    color: #6594C0;
+    background-color: #0B0B0B;
+    font-family: 'Special Elite';
+    padding: 10px;
+    text-align: justify;
+    max-width: 100%;
+}
